@@ -1,6 +1,6 @@
 @font-face {
   font-family: "AA Bebas Neue";
-  src: url("/src/fonts/AA\ Bebas\ Neue/ofont.ru_AA Bebas Neue.ttf")
+  src: url("src/fonts/AA\ Bebas\ Neue/ofont.ru_AA Bebas Neue.ttf")
     format("opentype");
   font-style: normal;
   font-weight: 400;
