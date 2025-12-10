@@ -1,7 +1,7 @@
-@import url(/_reset.css);
-@import url(/fonts.css);
-@import url(/header.css);
-@import url(/footer.css);
+@import url(_reset.css);
+@import url(fonts.css);
+@import url(header.css);
+@import url(footer.css);
 
 /* bread crumbs */
 ._container-crumbs {
